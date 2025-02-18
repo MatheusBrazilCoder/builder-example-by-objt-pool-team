@@ -7,4 +7,4 @@ public interface Builder {
     Builder cor(String cor);
     Builder combustivel(String combustivel);
     Car build();
-}
+} 
